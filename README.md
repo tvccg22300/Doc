@@ -5,7 +5,7 @@ Depuis sa création en 1991 par Linus Torvalds, Linux s’est imposé comme un s
 
 ## Sommaire
 - [Introduction](#introduction)
-- [Bash et scripting](#Bash%20et%20scipting)
+- [Bash et scripting](https://github.com/tvccg22300/Doc/blob/main/README.md#bash-et-scripting)
 - [TP5 Gestion des utilisateurs et des processus(fiche)](https://github.com/tvccg22300/Doc/blob/main/tp5_Gestions%20des%20utilisateurs%20et%20des%20processus.md)
 - [TP5 — Section exemple](tp5.md#section-exemple)
 - [TP6 (fiche)](tp6.md)
