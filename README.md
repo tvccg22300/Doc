@@ -1,5 +1,7 @@
 # sommaire
 DOC TVC: Comprendre Linux
+## Logo Linux
+![Logo Linux](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0e70Um_GwfUyo6z_VTNFr2V5ISnjaLZyB6KenB6Gh83nSeXX895YBtZ5aclKQrFYpfeM&usqp=CAU)
 
 Depuis sa création en 1991 par Linus Torvalds, Linux s’est imposé comme un système d’exploitation incontournable, utilisé dans une grande diversité d’environnements : des serveurs aux supercalculateurs, en passant par les smartphones et objets connectés. Plus qu’un simple OS, il incarne une philosophie du logiciel libre, prônant l’ouverture, la collaboration et la transparence.
 
@@ -15,7 +17,8 @@ Dans un monde où les attaques informatiques se multiplient, la gestion des acc�
 ## Bash et scripting
 En tant que  technicien veilleur en cybersécurité, vous serez confrontés à des situations plus ou moins critiques, qu'il s'agisse de prévenir une crise, de participer à la gestion d’une crise en cours, ou de réaliser des analyses post-incident (rétro-ingénierie). Pour cela, vous allez apprendre à utiliser le scripting Bash afin d’automatiser des tâches essentielles dans ces trois phases clés de la cybersécurité.
 
-
+## Logo Bash
+![Logo Bash](https://blog.desdelinux.net/wp-content/uploads/2019/01/bash-logo.jpg)
 
 Bash (acronyme de Bourne Again Shell) est un interpréteur de commandes pour les systèmes d'exploitation inspiré historiquement d’Unix, notamment Linux et macOS. Il est l'un des shells les plus populaires et les plus utilisés dans le monde de l'administration système, du développement, et de la cybersécurité. Il a de nombreuses fonctionnalité : exécution de commandes, scripting, gestion de fichiers et de répertoires,  manipulation de texte, gestion de processus, redirection et pipelines, gestion de variables d’environnement, et utilisation de structures de contrôles. 
 
