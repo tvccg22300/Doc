@@ -11,6 +11,7 @@ Depuis sa création en 1991 par Linus Torvalds, Linux s’est imposé comme un s
 - [TP5 Gestion des utilisateurs et des processus(fiche)](https://github.com/tvccg22300/Doc/blob/main/tp5_Gestions%20des%20utilisateurs%20et%20des%20processus.md)
 - [TP5 — Section exemple](tp5.md#section-exemple)
 - [TP6 (fiche)](tp6.md)
+- [Gestion des vm proxmox apres evaluation](proxmox-synthese.md)
 ## Introduction
 Dans un monde où les attaques informatiques se multiplient, la gestion des accès et des privilèges est essentielle pour sécuriser un système d’informations (SI) . Un administrateur malveillant ou une erreur humaine peut compromettre l’intégrité du système en un instant. L’objectif de cette activité est donc d’acquérir les bases pour créer, gérer et sécuriser les comptes servant à l’identification (login) et à l’authentification (password) des usagers, comprendre la gestion des permissions et analyser les journaux d’authentification en respectant le principe du moindre privilège
 
